@@ -1,12 +1,12 @@
 <div id="top">
   <a href="https://www.crehana.com">
-    <img src="logo.png" alt="Logo" width="50" height="50">
+    <img src="images/logo.png" alt="Logo" width="50" height="50">
   </a>
   <a href="https://www.crehana.com/clases/v2/16963/detalle/">
-    <img src="curso.png" alt="Logo" width="160" height="50">
+    <img src="images/curso.png" alt="Logo" width="160" height="50">
   </a>
   <a href="https://mx.linkedin.com/in/marco-rojo-a22527103">
-    <img src="teacher.png" alt="Logo" width="160" height="50">
+    <img src="images/teacher.png" alt="Logo" width="160" height="50">
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/crehana-studentxp/machine_learning_evaluacion_modelos-marco-rojo">
-    <img src="project.png" alt="Logo" width="80" height="80">
+    <img src="images/project.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Evaluación de modelos de Machine Learning</h3>
